@@ -1,5 +1,5 @@
 from xgboost import XGBClassifier
-from aggregate_data import df_agg_merge
+from Data_processing import aggregate_data
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
@@ -7,7 +7,7 @@ import pandas as pd
 
 if __name__ == "__main__":
 
-    df = df_agg_merge.copy()
+    df = aggregate_data.df_agg_merge.copy()
 
     # Encode categorical variables
     categorical_cols = ['gender', 'region', 'highest_education', 'imd_band', 'age_band', 'disability']
