@@ -1,5 +1,15 @@
 # Student Performance Analysis & Machine Learning Portfolio
 
+## 📋 About This Project
+
+This portfolio demonstrates comprehensive data science capabilities through two interconnected educational data analysis projects. The work showcases the complete machine learning pipeline from exploratory data analysis to model deployment, using real-world student performance datasets to predict academic outcomes and identify key success factors.
+
+**Project Goals:**
+- Analyze student behavior patterns and engagement metrics
+- Build predictive models for academic performance classification  
+- Extract actionable insights for educational intervention strategies
+- Demonstrate industry-standard data science methodologies
+
 ## 🎯 Project Overview
 
 This repository showcases two comprehensive data science projects demonstrating end-to-end analytical capabilities and machine learning expertise. These projects highlight practical skills in data exploration, visualization, feature engineering, and predictive modeling using real-world educational datasets.
